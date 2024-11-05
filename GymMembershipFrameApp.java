@@ -7,7 +7,7 @@ package gymmembershipframeapp;
 import za.ac.tut.ui.GymMembershipFrame;
 /**
  *
- * @author GAMING
+ * @author karabo
  */
 public class GymMembershipFrameApp {
 
